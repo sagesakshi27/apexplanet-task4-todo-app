@@ -1,2 +1,4 @@
-# apexplanet-task2-todo-app
-A responsive To-Do List application built using HTML, CSS, and JavaScript. Features include adding, deleting, and marking tasks as completed, demonstrating DOM manipulation, event handling, and responsive design.
+# apexplanet-task4-todo-app
+
+An advanced To-Do List web application built using HTML, CSS, and JavaScript featuring task creation, deletion, editing, filtering (all, completed, pending), and persistent storage using localStorage. 
+Demonstrates DOM manipulation, state management, and responsive UI design.
